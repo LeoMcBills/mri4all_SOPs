@@ -1,0 +1,47 @@
+site_name: mri4all SOPs
+site_description: Standard Operating Procedures for mri4all
+site_author: Leo Kinyera
+site_url: https://mri4all.github.io/sops/
+
+# Repository
+repo_name: mri4all/mri4all_SOPs
+repo_url: https://github.com/mri4all/mri4all_SOPs
+
+theme:
+  name: material
+  
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+  features:
+    - content.code.copy
+    - content.code.annotate
+    - navigation.top
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - admonition
+  - pymdownx.details
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mri4all
+      name: mri4all on GitHub
+  
