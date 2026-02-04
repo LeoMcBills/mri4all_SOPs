@@ -2,6 +2,13 @@
 
 Professional documentation for operating the low-field MRI system at MRI-Uganda.
 
+## 📚 Live Documentation
+
+**The documentation is published and available at:**  
+🔗 **https://leomcbills.github.io/mri4all_SOPs/**
+
+The site is automatically deployed to GitHub Pages whenever changes are pushed to the main branch.
+
 ## 🚀 Quick Start
 
 ### Prerequisites
