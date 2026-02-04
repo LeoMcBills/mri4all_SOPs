@@ -1,11 +1,11 @@
 site_name: mri4all SOPs
 site_description: Standard Operating Procedures for mri4all
 site_author: Leo Kinyera
-site_url: https://mri4all.github.io/sops/
+site_url: https://leomcbills.github.io/mri4all_SOPs/
 
 # Repository
-repo_name: mri4all/mri4all_SOPs
-repo_url: https://github.com/mri4all/mri4all_SOPs
+repo_name: LeoMcBills/mri4all_SOPs
+repo_url: https://github.com/LeoMcBills/mri4all_SOPs
 
 theme:
   name: material
